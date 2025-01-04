@@ -1,0 +1,8 @@
+{
+  "name": "Evan Musick Portfolio",
+  "short_name": "EM Portfolio",
+  "icons": [],
+  "theme_color": "#1a0f0f",
+  "background_color": "#1a0f0f",
+  "display": "standalone"
+}
